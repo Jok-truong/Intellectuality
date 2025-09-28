@@ -1,0 +1,3 @@
+[submodule "softwares/web/LMS"]
+	path = softwares/web/LMS
+	url = https://github.com/Jok-truong/LMS.git
