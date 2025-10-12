@@ -1,3 +1,6 @@
 [submodule "softwares/web/LMS"]
 	path = softwares/web/LMS
 	url = https://github.com/Jok-truong/LMS.git
+[submodule "softwares/web/travel-diary"]
+	path = softwares/web/travel-diary
+	url = https://github.com/Jok-truong/travel-diary.git
