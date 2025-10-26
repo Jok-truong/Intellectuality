@@ -4,3 +4,6 @@
 [submodule "softwares/web/travel-diary"]
 	path = softwares/web/travel-diary
 	url = https://github.com/Jok-truong/travel-diary.git
+[submodule "softwares/web/Dev-hub"]
+	path = softwares/web/Dev-hub
+	url = https://github.com/Jok-truong/Dev-hub.git
