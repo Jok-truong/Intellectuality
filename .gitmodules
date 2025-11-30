@@ -7,6 +7,4 @@
 [submodule "softwares/web/Dev-hub"]
 	path = softwares/web/Dev-hub
 	url = https://github.com/Jok-truong/Dev-hub.git
-[submodule "softwares/DS-Streamlit"]
-	path = softwares/DS-Streamlit
-	url = https://github.com/Jok-truong/DS-Streamlit.git
+
