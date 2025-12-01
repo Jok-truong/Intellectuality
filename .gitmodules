@@ -8,3 +8,6 @@
 	path = softwares/web/Dev-hub
 	url = https://github.com/Jok-truong/Dev-hub.git
 
+[submodule "softwares/ds-streamlit/breast_cancer_diagnois"]
+	path = softwares/ds-streamlit/breast_cancer_diagnois
+	url = https://github.com/Jok-truong/breast_cancer_diagnois.git
