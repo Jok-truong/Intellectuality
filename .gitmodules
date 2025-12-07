@@ -12,6 +12,3 @@
 	path = softwares/ds-streamlit/breast_cancer_diagnois
 	url = https://github.com/Jok-truong/breast_cancer_diagnois.git
 
-[submodule "softwares/web/E-Commerce/e-commerce"]
-	path = softwares/web/E-Commerce/e-commerce
-	url = https://github.com/Jok-truong/e-commerce.git
